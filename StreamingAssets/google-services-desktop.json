@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "850050645511",
+    "project_id": "m01b-panda-clean-house",
+    "storage_bucket": "m01b-panda-clean-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850050645511:ios:c7b83952e5745a87f834a2",
+        "android_client_info": {
+          "package_name": "com.m02.baby.panda.clean.up.life.kid"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmOud8KYXDcOUF94aUXUeB6NWeQsy2vA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850050645511-81j5nd11umgigjmbl9au33noi47ni3t7.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
